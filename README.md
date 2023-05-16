@@ -1,6 +1,15 @@
-# flutter_application_1
+# GALLOU_COSTAN_BENALOUANE
 
-A new Flutter project.
+Voici le rendu de notre projet de PROGMOBILE.
+
+Trinôme : COSTAN Zoe, GALLOU Mael, BENALOUANE Thomas
+
+Notre application comporte 2 modes : solo et multijoueur (p2p connection)
+
+Multijoueur : jeu du marteau, lancement synchronisé et échange des scores
+
+Solo : 6 mini-jeux (couleur, marteau, quiz, reflex, secouage (accèléromètre) et mémoire).
+
 
 ## Getting Started
 
